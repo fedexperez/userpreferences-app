@@ -1,6 +1,8 @@
-# user_preferences
+# User Preferences App
 
-A new Flutter project.
+With the development of this application the objective is to learn how to save to storage, learn how to read from storage, how to read information from storage before the application executes, implement a singleton to increase storage efficiency.
+
+It is a small app, but it is vital for any application that needs to store data in the native storage without using SQLite.
 
 ## Getting Started
 
@@ -10,7 +12,5 @@ A few resources to get you started if this is your first Flutter project:
 
 - [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
 - [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- [Online documentation](https://docs.flutter.dev)
+- [Fernando Herrera Udemy Course](https://www.udemy.com/course/flutter-ios-android-fernando-herrera/)
